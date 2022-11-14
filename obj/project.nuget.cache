@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QOICsyeU3zNOXOFyL2NBqqzwSjjsR+S6GEDnVzy5ei7VKlf2wmzuHhtUKvK8O+gyS7p9UpJaRaLKpNX4/xW1+A==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\ĐH Phú Xuân\\Năm 3\\HK-Fall\\CSharp\\source\\B1\\WinformApp\\WinformApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

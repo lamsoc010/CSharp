@@ -1,0 +1,1 @@
+[{"maLopHoc":1,"tenLopHoc":"CNTTK18A","soSinhVien":2},{"maLopHoc":2,"tenLopHoc":"CNTTK18B","soSinhVien":2},{"maLopHoc":3,"tenLopHoc":"QTKDK18A","soSinhVien":0}]
